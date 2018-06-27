@@ -1,0 +1,40 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-2 {
+  flex: 2;
+}
+
+.flex-3 {
+  flex: 3;
+}
+
+.flex-4 {
+  flex: 4;
+}
+
+.flex-5 {
+  flex: 5;
+}
+
+.flex-6 {
+  flex: 6;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.border {
+  border: 1px #ccc solid;
+}
+
+.border-blue-deep {
+  border: 1px #142E58 solid;
+}

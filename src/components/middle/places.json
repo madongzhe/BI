@@ -1,0 +1,36 @@
+{
+"name": "地点",
+"location":
+[
+	{
+		"name":"北京",
+		"log":"116.3",
+		"lat":"39.9",
+		"img":"static/image/beijing.png"
+	},
+	{
+		"name":"上海",
+		"log":"121.4",
+		"lat":"31.2",
+		"img":"static/image/shanghai.png"
+	},
+	{
+		"name":"长春",
+		"log":"125.35",
+		"lat":"43.88",
+		"img":"static/image/guilin.png"
+	},
+	{
+		"name":"天津",
+		"log":"117.2",
+		"lat":"39.13",
+		"img":"static/image/wulumuqi.png"
+	},
+	{
+		"name":"成都",
+		"log":"104.06",
+		"lat":"30.67",
+		"img":" static/image/lasa.png"
+	}
+]
+}
